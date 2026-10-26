@@ -1,5 +1,7 @@
 # Quantum Circuit Exploration with Qiskit
 
+---
+
 An implementation and analysis of foundational quantum algorithms using IBM's Qiskit framework.
 
 ## 🚀 Key Experiments
